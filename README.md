@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## About Me 
+### 🤗 About Me 
 
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyehwan24&show_icons=true&theme=default)
+
 
 
 <!--
