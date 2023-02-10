@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ### 🤗 About Me
+<ul>
+  <li>I'm studying to be a backend developer</li>
+</ul>  
 <hr>
 
 ### 🛠Stack
