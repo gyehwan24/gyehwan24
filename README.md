@@ -2,7 +2,7 @@
 
 ### 🤗 About Me
 <ul>
-  <li>I'm studying to be a backend Engineer 👨🏻‍💻</li>
+  <li>I'm studying to be a Backend Engineer 👨🏻‍💻</li>
 </ul>  
 <hr>
 
