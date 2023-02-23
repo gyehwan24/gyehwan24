@@ -2,7 +2,7 @@
 
 ### 🤗 About Me
 <ul>
-  <li> I'm studying to be a Backend Engineer 👨🏻‍💻 </li>
+  <li> I'm studying to be a Backend Developer 👨🏻‍💻 </li>
   <li> UMC 3rd Server-Spring Part. 2022.09 ~ 2023.02
 </ul>  
 <hr>
