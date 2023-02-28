@@ -5,6 +5,7 @@
   <li> 👨🏻‍💻 I'm studying to be a Backend Developer </li>
   <li> 🦠 UMC 3rd Server-Spring Part. Challenger 2022.09 ~ 2023.02 </li>
 </ul>  
+
 <hr>
 
 ### 🛠 Stack
