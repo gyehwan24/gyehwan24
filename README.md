@@ -3,10 +3,13 @@
 ### 🤗 About Me
 <ul>
   <li> 👨🏻‍💻 I'm studying to be a Backend Developer </li>
-  <li> 🦠 UMC 3rd Server-Spring Part. Challenger 2022.09 ~ 2023.02 </li>
 </ul>  
 
-
+### 🏅 Experience
+<ul>
+  <li> 🦠 UMC 3rd Challenger of the Server-Spring Part.  2022.09 ~ 2023.02 </li>
+  <li> 🦠 UMC 4th Leader of the Server-Spring Part. 2023.03 ~ 2023.08 </li>
+</ul>  
 <hr>
 
 ### 🛠 Stack
