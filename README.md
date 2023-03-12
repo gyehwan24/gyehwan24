@@ -8,6 +8,7 @@
 ### 🏅 Experience
 <ul>
   <li> 🦠 UMC 3rd Challenger of the Server-Spring Part.  2022.09 ~ 2023.02 </li>
+  <li> 👨🏻‍🏫 Play with SW, SW education program of NAVER Connect Mentor. 2022.12 ~ 2023.02</li>
   <li> 🦠 UMC 4th Leader of the Server-Spring Part. 2023.03 ~ 2023.08 </li>
 </ul>  
 <hr>
